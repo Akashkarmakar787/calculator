@@ -7,3 +7,4 @@ def sub(a,b)
 //git reset --hard number
 //git remote add orign url
 //git push orign master
+changed by yash
